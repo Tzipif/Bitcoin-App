@@ -171,7 +171,7 @@ ul a {
 /* Parallax-scrolling */
 
 #Parallax-scrolling {
-    background-image: url(/more/creative-glowing-round-ruble-icon-map-hologram-blurry-city-view-backdrop-finance-currency-global-business-technologies-concept-double-exposure.jpg);
+    background-image: url('./more/creative-glowing-round-ruble-icon-map-hologram-blurry-city-view-backdrop-finance-currency-global-business-technologies-concept-double-exposure.jpg');
 
     min-height: 100vh;
     background-attachment: fixed;
@@ -493,7 +493,7 @@ input:checked+.slider:before {
     width: 13rem;
     height: 13rem;
 
-    background-image: url(/more/IMG_5435.JPG);
+    background-image: url('./more/IMG_5435.JPG');
 
     background-repeat: no-repeat;
     background-size: 25rem;
